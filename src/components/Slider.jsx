@@ -41,10 +41,10 @@ export const Slider = () => {
     <div className="flex flex-col gap-8">
       {/* Title */}
       <div className="flex justify-center gap-2">
-        <img src="/assets/asset 2.svg" alt="arrow" className="translate-y-2" />
+        <img src="/assets/asset-2.svg" alt="arrow" className="translate-y-2" />
         <span className="font-medium">APPS POWERED BY TODESKTOP</span>
         <img
-          src="/assets/asset 2.svg"
+          src="/assets/asset-2.svg"
           alt="arrow"
           className="translate-y-2 -scale-x-100"
         />

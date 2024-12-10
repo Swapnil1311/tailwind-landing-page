@@ -74,7 +74,7 @@ export const StepCard = () => {
 
         {/*Right Side */}
         <div className="pt-12 lg:pl-10">
-          <img src="/assets/asset 66.svg" alt="Picture" />
+          <img src="/assets/asset-66.svg" alt="Picture" />
         </div>
       </div>
 
@@ -158,7 +158,7 @@ export const StepCard = () => {
 
         {/*Right Side */}
         <div className="pt-12 lg:pl-10">
-          <img src="/assets/asset 66.svg" alt="Picture" />
+          <img src="/assets/asset-66.svg" alt="Picture" />
         </div>
       </div>
 
@@ -233,7 +233,7 @@ export const StepCard = () => {
 
         {/*Right Side */}
         <div className="pt-12 lg:pl-10">
-          <img src="/assets/asset 66.svg" alt="Picture" />
+          <img src="/assets/asset-66.svg" alt="Picture" />
         </div>
       </div>
     </div>

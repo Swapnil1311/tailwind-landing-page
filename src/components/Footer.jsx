@@ -28,7 +28,7 @@ export const Footer = () => {
       <div className="flex flex-col gap-6 items-center justify-center my-12">
         <div className="flex gap-2 items-center">
           <img
-            src="/assets/asset 54.svg"
+            src="/assets/asset-54.svg"
             alt="Y-combinator"
             className="w-4 h-4"
           />

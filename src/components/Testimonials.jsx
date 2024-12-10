@@ -185,7 +185,7 @@ export const Testimonials = () => {
         {/* Right Part */}
         <div className="lg:w-1/2 flex items-end">
           <img
-            src="/assets/asset 53.png"
+            src="/assets/asset-53.png"
             alt="Testimonial_Image"
             className="pl-12 lg:pt-12"
           />
