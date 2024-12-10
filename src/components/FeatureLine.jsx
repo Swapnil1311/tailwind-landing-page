@@ -19,7 +19,7 @@ export const FeatureLine = () => {
   }, []);
 
   return (
-    <div className="mx-16 max-w-7xl mt-12 flex items-center overflow-hidden rounded-xl border border-solid px-6 py-8">
+    <div className="max-w-7xl mt-12 flex items-center overflow-hidden rounded-xl border border-solid px-6 py-8">
       <section className="flex items-center" ref={line4Ref}>
         {featureList.map((featureList, index) => (
           <div key={index} className="flex">

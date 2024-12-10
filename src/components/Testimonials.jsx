@@ -77,7 +77,7 @@ export const Testimonials = () => {
           <div className="flex gap-4 ">
             <div className="w-12">
               <img
-                src="assets/asset 45.jpeg"
+                src="assets/asset-45.jpeg"
                 alt="User_Photo"
                 className="rounded-full"
               />
