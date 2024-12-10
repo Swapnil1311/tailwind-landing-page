@@ -14,7 +14,10 @@ export const BentoGrid = () => {
           <div className="row-start-1 row-end-3 rounded-2xl bg-gray-200 p-[1px] hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200 group">
             <div className="bg-slate-50 rounded-2xl w-full h-full p-6 flex flex-col items-center gap-6 group-hover:bg-gradient-to-br group-hover:from-red-50 group-hover:via-purple-50 group-hover:to-yellow-50">
               <h3 className="text-2xl text-bold">Native Notifications</h3>
-              <img src="/assets/asset-37.png" alt="Bento_Grid_Image" />
+              <img
+                src="/tailwind-landing-page/assets/asset-37.png"
+                alt="Bento_Grid_Image"
+              />
             </div>
           </div>
 
@@ -27,7 +30,10 @@ export const BentoGrid = () => {
                 performance improvements, security patches, & additional
                 features.
               </p>
-              <img src="/assets/asset-38.png" alt="Bento_Grid_Image" />
+              <img
+                src="/tailwind-landing-page/assets/asset-38.png"
+                alt="Bento_Grid_Image"
+              />
             </div>
           </div>
 
@@ -35,7 +41,10 @@ export const BentoGrid = () => {
           <div className="row-start-1 row-end-3 rounded-2xl bg-gray-200 p-[1px] hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200 group">
             <div className="bg-slate-50 rounded-2xl w-full h-full p-6 flex flex-col items-center gap-6 group-hover:bg-gradient-to-br group-hover:from-red-50 group-hover:via-purple-50 group-hover:to-yellow-50">
               <h3 className="text-2xl text-bold">Plugins</h3>
-              <img src="/assets/asset-39.png" alt="Bento_Grid_Image" />
+              <img
+                src="/tailwind-landing-page/assets/asset-39.png"
+                alt="Bento_Grid_Image"
+              />
             </div>
           </div>
 
@@ -48,7 +57,10 @@ export const BentoGrid = () => {
                 improvements, security patches and additional features are
                 always up to date.
               </p>
-              <img src="/assets/asset-40.png" alt="Bento_Grid_Image" />
+              <img
+                src="/tailwind-landing-page/assets/asset-40.png"
+                alt="Bento_Grid_Image"
+              />
             </div>
           </div>
 
@@ -56,7 +68,10 @@ export const BentoGrid = () => {
           <div className="row-start-4 row-end-6 rounded-2xl bg-gray-200 p-[1px] hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200 group">
             <div className="bg-slate-50 rounded-2xl w-full h-full p-6 flex flex-col items-center gap-6 group-hover:bg-gradient-to-br group-hover:from-red-50 group-hover:via-purple-50 group-hover:to-yellow-50">
               <h3 className="text-2xl text-bold">Customizable look and feel</h3>
-              <img src="/assets/asset-42.png" alt="Bento_Grid_Image" />
+              <img
+                src="/tailwind-landing-page/assets/asset-42.png"
+                alt="Bento_Grid_Image"
+              />
             </div>
           </div>
 
@@ -69,7 +84,10 @@ export const BentoGrid = () => {
                 operating system & download the most up to date version of your
                 app.
               </p>
-              <img src="/assets/asset-43.png" alt="Bento_Grid_Image" />
+              <img
+                src="/tailwind-landing-page/assets/asset-43.png"
+                alt="Bento_Grid_Image"
+              />
             </div>
           </div>
         </div>

@@ -28,7 +28,10 @@ export const Testimonials = () => {
         {/*Left Part */}
         <div className="flex flex-col gap-8 p-8 ">
           <div className="h-4 w-fit">
-            <img src="/assets/asset 44.svg" alt="testimonial_page_photo" />
+            <img
+              src="/tailwind-landing-page/assets/asset 44.svg"
+              alt="testimonial_page_photo"
+            />
           </div>
           <h3 className="text-xl leading-relaxed">
             ClickUp used ToDesktop to get their desktop app in front of
@@ -94,7 +97,7 @@ export const Testimonials = () => {
         {/*Right Part */}
         <div>
           <img
-            src="/assets/asset 46.png"
+            src="/tailwind-landing-page/assets/asset-46.png"
             alt="Testimonial_Image"
             className="md:pt-12 pl-12"
           />
@@ -154,7 +157,7 @@ export const Testimonials = () => {
       </div>
 
       <div className="relative rounded-xl mt-16 bg-black bg-no-repeat bg-cover bg-center flex flex-col pt-6 lg:flex-row lg:pt-8 bg-blend-lighten">
-        <div className="absolute inset-0 bg-[url('/assets/asset33.svg')] bg-cover bg-center opacity-50 z-0"></div>
+        <div className="absolute inset-0 bg-[url('/tailwind-landing-page/assets/asset33.svg')] bg-cover bg-center opacity-50 z-0"></div>
 
         {/* Left Part */}
         <div className="relative z-10 px-8 pt-12 pb-12 lg:flex-1 lg:px-16 lg:py-16 xl:px-20 xl:py-20">
@@ -185,7 +188,7 @@ export const Testimonials = () => {
         {/* Right Part */}
         <div className="lg:w-1/2 flex items-end">
           <img
-            src="/assets/asset-53.png"
+            src="/tailwind-landing-page/assets/asset-53.png"
             alt="Testimonial_Image"
             className="pl-12 lg:pt-12"
           />

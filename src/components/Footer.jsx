@@ -18,7 +18,7 @@ export const Footer = () => {
         </div>
         <a href="#" className="flex gap-2 items-center flex-1">
           <img
-            src="/assets/asset 0.png"
+            src="/tailwind-landing-page/assets/asset-0.png"
             alt="Logo"
             className="object-cover max-w-12 max-h-12"
           />
@@ -28,7 +28,7 @@ export const Footer = () => {
       <div className="flex flex-col gap-6 items-center justify-center my-12">
         <div className="flex gap-2 items-center">
           <img
-            src="/assets/asset-54.svg"
+            src="/tailwind-landing-page/assets/asset-54.svg"
             alt="Y-combinator"
             className="w-4 h-4"
           />

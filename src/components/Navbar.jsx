@@ -10,7 +10,7 @@ export const Navbar = () => {
       {/* Logo Section */}
       <a href="#" className="flex gap-2 items-center flex-1">
         <img
-          src="/assets/asset-0.png"
+          src="/tailwind-landing-page/assets/asset-0.png"
           alt="Logo"
           className="object-cover max-w-12 max-h-12"
         />
@@ -37,7 +37,7 @@ export const Navbar = () => {
       </div>
       <div className="flex-1 hidden lg:flex justify-end">
         <button className="flex gap-3 items-center border border-gray-400 px-6 py-2 rounded-lg hover:border-gray-700">
-          <img src="/assets/asset-1.svg" alt="Logo" />
+          <img src="/tailwind-landing-page/assets/asset-1.svg" alt="Logo" />
           <span>React Developers</span>
           <FaArrowRightLong />
         </button>
@@ -64,7 +64,7 @@ export const Navbar = () => {
           <div className="w-full flex justify-between items-center">
             <a href="#" className="flex gap-2 items-center">
               <img
-                src="/assets/asset-0.png"
+                src="/tailwind-landing-page/assets/asset-0.png"
                 alt="Logo"
                 className="object-cover max-w-12 max-h-12"
               />
@@ -111,7 +111,7 @@ export const Navbar = () => {
           </a>
           <div className="h-[1px] w-full bg-gray-300"></div>
           <button className="w-full flex gap-3 items-center px-6 py-4 rounded-lg hover:border-none hover:bg-gray-100">
-            <img src="/assets/asset-1.svg" alt="Logo" />
+            <img src="/tailwind-landing-page/assets/asset-1.svg" alt="Logo" />
             <span>React Developers</span>
           </button>
         </div>
